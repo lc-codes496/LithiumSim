@@ -47,6 +47,18 @@
             android:gravity="center"
             android:textColor="#CCCCCC"
             android:typeface="monospace"/>
+
+        <!-- Nova linha: seção aleatória do aparelho -->
+        <TextView
+            android:id="@+id/tv_section"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="14sp"
+            android:layout_marginTop="18dp"
+            android:gravity="center"
+            android:textColor="#AAAAAA"
+            android:typeface="monospace"/>
     </LinearLayout>
 
     <!-- Rodapé: versão -->
